@@ -410,7 +410,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-two-papers-accepted-to-aistats-2025",
+    },{id: "news-best-paper-award-ieee-mlsp",
+          title: 'Best Paper Award IEEE MLSP',
+          description: "",
+          section: "News",},{id: "news-two-papers-accepted-to-aistats-2025",
           title: 'Two papers accepted to AISTATS 2025',
           description: "",
           section: "News",},{id: "projects-project-1",

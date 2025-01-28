@@ -21,5 +21,3 @@ This is a new website heavily under construction.
 Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464
 
 Halligan Hall, Room 144 
-
-See bottom of page for links to Email and Google Scholar. 

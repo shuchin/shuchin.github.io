@@ -3,16 +3,18 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://engineering.tufts.edu/ece/people/faculty'>Affiliations</a>. 
-  This is a new website Under Construction
+  <p> Department of ECE, Tufts University </p>
+    <p> 161 College Ave, Medford, MA 02464</p>
+    <p> Halligan Hall, Room 144 </p>
+  
+  This is a new website heavily under construction
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of ECE, Tufts University </p>
-    <p> 161 College Ave, Medford, MA 02464</p>
-    <p> Office: Halligan Hall, Room 144 </p>
+    
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

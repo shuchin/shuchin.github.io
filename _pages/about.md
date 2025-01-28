@@ -18,6 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 This is a new website heavily under construction.
 
-<p> Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464 </p>
-<p> Halligan Hall, Room 144 </p>
+Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464
+
+Halligan Hall, Room 144 
+
 See bottom of page for links to Email and Google Scholar. 

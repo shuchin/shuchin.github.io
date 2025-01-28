@@ -2,38 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shuchin Aeron
     - name: Languages
-      value: English, German
+      value: Hindi, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Boston University, Boston, MA
+      year: 2009
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Information Theoretic Bounds for Compressed Sensing
+        - Applications of Sparse Signal Processing for Borehole Acoustics
+    - title: Master of Science
+      institution: Boston University, Boston, MA
+      year: 2004
       description:
-        - Description 1.
-        - Description 2.
+        - Capacity Scaling Laws for Wireless Networks
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of ECE
+      institution: Electrical and Computer Engineering, Tufts University
+      year: 2012-2017
       description:
         - Description 1.
         - Description 2.

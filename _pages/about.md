@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://engineering.tufts.edu/ece/people/faculty'>Affiliations</a>. Website Under Construction
 
 profile:
   align: right

@@ -26,13 +26,13 @@
   contents:
     - title: Assistant Professor
       institution: Electrical and Computer Engineering, Tufts University
-      year: 2012-2017
+      year: (Sept) 2011 - (Aug) 2017
       description:
         - Tensor Algebraic Methods for Statistical Signal Processing
         - Signal Processing for Geophysics
     - title: Associate Professor
       institution: Electrical and Computer Engineering, Tufts University
-      year: 2017-2024
+      year: (Sept) 2017 - 2025 (August)
       description:
         - Optimal Transport for Machine Learning
         - Unlabeled Sesning
@@ -44,7 +44,7 @@
 
     - title: Professor
       institution: Electrical and Computer Engineering, Tufts University
-      year: 2025 - present
+      year: (Sept) 2025 -
       description:
         - Optimal Transport Theory and Applications
         - Generative Models

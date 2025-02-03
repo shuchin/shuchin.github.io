@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is a new website heavily under construction.
+This is a new website heavily under construction. Basic information can be found under cv. 
 
 Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464
 

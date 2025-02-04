@@ -54,13 +54,21 @@
         - Generative Models
         - Transformers
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Information Theory
-    - title: Machine Learning
-    - title: Optimal Transport
-    - title: Sparse Models for Signal Processing
+- title: Professional Service
+  description:
+    - ABET and UG Program Director, ECE, Tufts University. 2024-present
+    - Associate Editor, ACM Transactions on Probabilistic
+    - IEEE ICASSP MLSP Area Chair, 2022-2025
+    - IEEE TPC member for MLSP 2021-2024
+    - Associate Editor, IEEE Transactions on Geosciences and Remote Sensing (TGRS), 2019-2023
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Information Theory
+#    - title: Machine Learning
+#    - title: Optimal Transport
+#    - title: Sparse Models for Signal Processing
 
 - title: Other Interests
   type: list

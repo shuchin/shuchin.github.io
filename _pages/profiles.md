@@ -6,15 +6,15 @@ description: members of the lab or group
 nav: true
 nav_order: 7
 ---
-##### Current Graduate PhD Students
+##### Current PhD Students
 - Zhengyan Huan, PhD, ECE, Fall 2024 - present
   - Generative Modeling, High Energy Physics
-- Hanling Jiang, PhD, ECE, Spring 2025 - p
+- Hanling Jiang, PhD, ECE, Spring 2025 - present
   - Large Language Models for Learning Sciences
-- Brendan Mallery, PhD, Math
-  - Optimal Transport
+- Brendan Mallery, PhD, Math, Fall 2023 - present
+  - Optimal Transport for Parsimonious Representation of Data as Measures
 
-##### Current Graduate MS Students
+##### Current MS Students
 - Max Shellist 
   - Schrodinger Bridges for Generative Modeling 
 

@@ -19,7 +19,11 @@
       institution: Boston University, Boston, MA
       year: 2004
       description:
-        - Capacity Scaling Laws for Wireless Networks
+        - Capacity Scaling Laws for Wireless Ad-hoc Networks
+    - title: Bachelor of Technology (B. Tech)
+      institution: Indian Institute of Technology, Kanpur, India
+      year: 2002
+      description: Electrical Engineering
 
 - title: Experience
   type: time_table

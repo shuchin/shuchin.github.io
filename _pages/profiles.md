@@ -14,9 +14,13 @@ nav_order: 7
 - Brendan Mallery, PhD, Math, Fall 2023 - present
   - Optimal Transport for Parsimonious Representation of Data as Measures
 
+
 ##### Current MS Students
-- Max Shellist 
-  - Schrodinger Bridges for Generative Modeling 
+- Max Shellist (MS thesis), Fall 2024 - present
+  - Schrodinger Bridges for Generative Modeling
+- Aleksandre Avaliani (MS Project), Fall 2024 - present
+  - Multimodal Contrastive Learning, AI/ML for Pain Score Estimation 
+
 
 ##### Graduate Alumni
 - (2024) Matthew Werenski, PhD (CS), "Optimal Transport Maps: Theory and Applications". 

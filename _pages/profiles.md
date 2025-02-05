@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Students, Post-Docs, and Alumni
-description:
+title: people
+description: Students, Post-Docs, and Alumni
 nav: true
 nav_order: 7
 ---

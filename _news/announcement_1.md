@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to AISTATS 2025
+Two papers on Optimal Transport accepted to AISTATS 2025

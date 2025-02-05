@@ -18,6 +18,13 @@ social: true # includes social icons at the bottom of the page
 
 This is a new website heavily under construction. Basic information can be found under CV. 
 
-Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464
+##### Affiliations
+- Primary: Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464, 
+  - Office: Halligan Hall, Room 144
 
-Halligan Hall, Room 144 
+
+##### Academic and Research Interests
+- Information Theory
+- High Dimensional Statistics and Machine Learning 
+- Optimal Transport 
+- Sparse Models for Signal Processing

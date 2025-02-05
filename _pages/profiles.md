@@ -6,7 +6,7 @@ description: Students, Post-Docs, and Alumni
 nav: true
 nav_order: 7
 ---
-##### Current PhD Students: direct official advisees
+##### Current PhD Students
 - Zhengyan Huan, PhD, ECE, Fall 2024 - present
   - Generative Modeling, High Energy Physics
 - Hanling Jiang, PhD, ECE, Spring 2025 - present
@@ -15,14 +15,14 @@ nav_order: 7
   - Optimal Transport for Parsimonious Representation of Data as Measures
 
 
-##### Current MS Students: direct official advisees
+##### Current MS Students
 - Max Shellist (MS thesis), Fall 2024 - present
   - Schrodinger Bridges for Generative Modeling
 - Aleksandre Avaliani (MS Project), Fall 2024 - present
   - Multimodal Contrastive Learning, AI/ML for Pain Score Estimation 
 
 
-##### Graduate Alumni: direct official advisees
+##### Graduate Alumni
 - (2024) Matthew Werenski, PhD (CS), "Optimal Transport Maps: Theory and Applications". 
 - (2024) Ruijie Jiang, Phd (ECE), "Hard Negative Sampling for Contrastive Representation Learning".
 - (2023) Shoaib Bin Masud, PhD (ECE), "Multivariate Rank-based Statistic using Optimal Transport: Generative Modeling and Change Point Detection".

@@ -30,6 +30,6 @@ This is a new website heavily under construction.
 ##### Academic and Research Interests
 - Information Theory
 - High Dimensional Statistics and Machine Learning 
-- Optimal Transport 
+- Optimal Transport, Generative Models
 - Sparse Models for Signal Processing
 - Contrastive Representation Learning

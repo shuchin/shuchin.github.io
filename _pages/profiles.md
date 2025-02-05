@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title:
+title: Students, Post-Docs, and Alumni
 description:
 nav: true
 nav_order: 7

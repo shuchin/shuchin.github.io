@@ -16,11 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is a new website heavily under construction. Basic information can be found under CV. 
+This is a new website heavily under construction. 
 
 ##### Affiliations
-- Primary: Department of ECE, <a href='https://engineering.tufts.edu/ece/'> Tufts University </a>, 161 College Ave, Medford, MA 02464, 
-  - Office: Halligan Hall, Room 144
+- <a> href='https://engineering.tufts.edu/ece/'>  Department of ECE, Tufts University </a>, 161 College Ave, Medford, MA 02464,
+  - Office: Halligan Hall, Room 144 
+- Senior Investigator, NSF <a> href='https://iaifi.org/'> IAIFI  </a> 
+- Affiliate Faculty 
+  - Tufts Department of Computer Science
+  - Tufts Department of Mathematics
 
 
 ##### Academic and Research Interests

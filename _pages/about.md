@@ -28,3 +28,4 @@ This is a new website heavily under construction. Basic information can be found
 - High Dimensional Statistics and Machine Learning 
 - Optimal Transport 
 - Sparse Models for Signal Processing
+- Contrastive Representation Learning

@@ -19,9 +19,9 @@ social: true # includes social icons at the bottom of the page
 This is a new website heavily under construction. 
 
 ##### Affiliations
-- <a> href='https://engineering.tufts.edu/ece/'>  Department of ECE, Tufts University </a>, 161 College Ave, Medford, MA 02464,
+- [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 161 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 
-- Senior Investigator, NSF <a> href='https://iaifi.org/'> IAIFI  </a> 
+- Senior Investigator, [NSF IAIFI](https://iaifi.org/)  </a> 
 - Affiliate Faculty 
   - Tufts Department of Computer Science
   - Tufts Department of Mathematics

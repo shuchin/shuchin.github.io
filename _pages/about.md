@@ -21,7 +21,7 @@ This is a new website heavily under construction.
 ##### Affiliations
 - [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 161 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 
-- Senior Investigator, [NSF IAIFI](https://iaifi.org/)  </a> 
+- Senior Investigator, [NSF IAIFI](https://iaifi.org/)
 - Affiliate Faculty 
   - Tufts Department of Computer Science
   - Tufts Department of Mathematics
@@ -30,6 +30,6 @@ This is a new website heavily under construction.
 ##### Academic and Research Interests
 - Information Theory
 - High Dimensional Statistics and Machine Learning 
-- Optimal Transport, Generative Models
-- Sparse Models for Signal Processing
-- Contrastive Representation Learning
+  - Optimal Transport, Generative Models
+  - Sparse Models for Signal Processing
+  - Contrastive Representation Learning

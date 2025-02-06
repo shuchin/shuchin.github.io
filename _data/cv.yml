@@ -54,7 +54,8 @@
         - Generative Models
 
 - title: Professional Service Highlights
-  description:
+  type: list
+  contents:
     - ABET and UG Program Director, ECE, Tufts University. 2024-present
     - Associate Editor, ACM Transactions on Probabilistic
     - IEEE ICASSP MLSP Area Chair, 2022-2025

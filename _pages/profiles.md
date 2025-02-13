@@ -29,7 +29,7 @@ nav_order: 7
 - (2023) Boyang Lyu, PhD (ECE), "Domain Generalization via Representation Learning", Currently at CogNex. 
 - (2022) Kevin Cheng, PhD (ECE), co-advised with Eric Miller, "Analysis of Probabilistic Time-Series That Transition Among Discrete States With Applications of the Wasserstein Distance", Currently at Takeda.
 - (2017) Zemin Zhang, PhD (ECE), "A Novel Algebraic Framework for Processing Multidimensional Data: Theory and Application", Currently at Google.
-- (2018) Bo Fan, PhD (ECE), "Exploiting Correlation Structures for Geosciences", Currenly at Motorola.
+- (2018) Bo Fan, PhD (ECE), "Exploiting Correlation Structures for Geoscience", Currently at Motorola.
 - (2018) Wenqi Wang, PhD (ECE), Purdue University, Co-advised with Vaneet Aggarwal, "Multi-dimensional data analytics and deep learning via tensor networks", Currently at Facebook.
 - (2013) Gregory Ely, ECE (ECE), MS with thesis, "Reduced Complexity Regularization of Geophysical Inverse Problems". Winner of 2012 NSF GRFP fellowship
 - (2017) Eric Bailey, MS with thesis (CS/Math), "Capturing and evaluating higher order relations in word embeddings using tensor factorization". Currently at Google.

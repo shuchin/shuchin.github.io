@@ -26,8 +26,9 @@ social: true # includes social icons at the bottom of the page
 
 
 ##### Academic and Research Interests
+- Statistical Signal Processing
 - Information Theory
-- High Dimensional Statistics and Machine Learning 
+- High-Dimensional Statistics and Machine Learning 
   - Optimal Transport, Generative Models
   - Sparse Models for Signal Processing
   - Contrastive Representation Learning

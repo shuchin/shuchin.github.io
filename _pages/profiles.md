@@ -13,13 +13,12 @@ nav_order: 7
   - Large Language Models for Learning Sciences
 - Brendan Mallery, PhD, Math, Fall 2023 - present
   - Optimal Transport for Parsimonious Representation of Data as Measures
-
-
-##### Current MS Students
-- Max Shellist (MS thesis), Fall 2024 - present
-  - Schrodinger Bridges for Generative Modeling
-- Aleksandre Avaliani (MS Project), Fall 2024 - present
-  - Multimodal Contrastive Learning, AI/ML for Pain Score Estimation 
+- Aleksandre Avaliani
+  - Contrastive Learning, AI/ML for Pain Score Estimation
+- Ngoc-Hai Nguyen
+  - Contrastive Learning, Optimal Transport
+- Mohammad Panahazari 
+  - Generative Models (Co-advised with Prof. Usman Khan, Boston College)
 
 
 ##### Graduate Alumni

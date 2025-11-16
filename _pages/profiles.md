@@ -23,7 +23,7 @@ nav_order: 7
 
 ##### Graduate Alumni
 - (2024) Matthew Werenski, PhD (CS), "Optimal Transport Maps: Theory and Applications". 
-- (2024) Ruijie Jiang, Phd (ECE), "Hard Negative Sampling for Contrastive Representation Learning".
+- (2024) Ruijie Jiang, Phd (ECE), "Hard Negative Sampling for Contrastive Representation Learning". Currently with LinkedIn.
 - (2023) Shoaib Bin Masud, PhD (ECE), "Multivariate Rank-based Statistic using Optimal Transport: Generative Modeling and Change Point Detection".
 - (2023) Boyang Lyu, PhD (ECE), "Domain Generalization via Representation Learning", Currently at CogNex. 
 - (2022) Kevin Cheng, PhD (ECE), co-advised with Eric Miller, "Analysis of Probabilistic Time-Series That Transition Among Discrete States With Applications of the Wasserstein Distance", Currently at Takeda.
@@ -35,5 +35,5 @@ nav_order: 7
 - (2018) Charles Colley, MS with thesis (CS/Math),"Algebraic Multigrid for Least Squares Problems on Graphs".  
 - (2019) Ce Zheng, ECE, MS with thesis (ECE), "Reliable Biometric Estimation from Colorimetric Data".
 - (2020) Ashish Neupane, ECE, MS project (ECE) - "Fast Scanning Strategies for Chemical Species Identification, Supported from Pendar technologies".
-- (2022) Ahmed Abbasi, ECE, MS project (ECE()) - "Unlabeled sensing and unlabeled distance geometry problems: models, theory, and algorithms". Jointly advised with Abiy Tassisa (Tufts Math). 
+- (2022) Ahmed Abbasi, ECE, MS project (ECE) - "Unlabeled sensing and unlabeled distance geometry problems: models, theory, and algorithms". 
 - (2022) Max Mattessich, MS with Thesis (Math), "A Review of Multi-Block Dimensionality Reduction Via Multiple Co-Inertia Analysis".

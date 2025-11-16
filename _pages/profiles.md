@@ -16,7 +16,7 @@ nav_order: 7
 - Aleksandre Avaliani
   - Contrastive Learning, AI/ML for Pain Score Estimation
 - Ngoc-Hai Nguyen
-  - Contrastive Learning, Optimal Transport
+  - Contrastive Learning, Optimal Transport, High Energy Physics
 - Mohammad Panahazari 
   - Generative Models (Co-advised with Usman Khan, Boston College)
 

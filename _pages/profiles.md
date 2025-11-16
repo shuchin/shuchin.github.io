@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Students, Post-Docs, and Alumni
+description: Current and Alumni
 nav: true
 nav_order: 7
 ---

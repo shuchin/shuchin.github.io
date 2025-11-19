@@ -18,7 +18,7 @@ nav_order: 7
 - Ngoc-Hai Nguyen
   - Contrastive Learning, Optimal Transport, High Energy Physics
 - Mohammad Panahazari 
-  - Generative Models (Co-advised with Usman Khan, Boston College)
+  - Generative Models
 
 
 ##### Graduate Alumni

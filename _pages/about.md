@@ -17,6 +17,9 @@ social: true # includes social icons at the bottom of the page
 ---
 ##### Midway along a multi-pitch climb ... "Shuchin, there is no choice ...The only way out is up!" - Adam Young 
 
+<br>
+<br>
+
 ##### Affiliations
 - [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 161 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 

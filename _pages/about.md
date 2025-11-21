@@ -15,6 +15,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+##### Midway along a multi-pitch climb ... "Shuchin, there is no choice ...The only way out is up!" - Adam Young 
 
 ##### Affiliations
 - [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 161 College Ave, Medford, MA 02464,
@@ -33,4 +34,3 @@ social: true # includes social icons at the bottom of the page
   - Sparse Models for Signal Processing
   - Contrastive Representation Learning
 
-Midway along a multi-pitch climb ... "Shuchin, there is no choice ...The only way out is up!" - Adam Young 

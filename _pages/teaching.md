@@ -9,6 +9,8 @@ nav_order: 6
 
 ###### (Spring 2023, Fall 2024, Fall 2025) EE 193: Probability in High Dimensions
 <br>
+[Course information](/assets/pdf/HDP_Course_Information_F2025.pdf)
+<br>
 
 ###### (Spring 2026) EE 140: Machine Learning via Sequential Interaction 
 <br>

@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 <br>
 
 ##### Affiliations
-- [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 161 College Ave, Medford, MA 02464,
+- Professor, [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 171 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 
 - Senior Investigator, [NSF IAIFI](https://iaifi.org/)
 - Affiliate Faculty 
@@ -34,8 +34,8 @@ social: true # includes social icons at the bottom of the page
 ##### Academic and Research Interests
 - Statistical Signal Processing
 - Information Theory
-- High-Dimensional Statistics and Machine Learning 
+- High-Dimensional Statistics and Learning 
   - Optimal Transport, Generative Models
   - Sparse Models for Signal Processing
-  - Contrastive Representation Learning
+  - Contrastive Learning
 

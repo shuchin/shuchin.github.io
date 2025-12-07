@@ -446,6 +446,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-dblp',
+        title: 'DBLP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://dblp.org/pid/14/6374.html", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

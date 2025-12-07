@@ -18,9 +18,6 @@ social: true # includes social icons at the bottom of the page
 ###### Midway along a multi-pitch climb ... "There is no choice ...The only way out is up!" - Adam Young
 <br>
 
-[![DBLP](https://img.shields.io/badge/DBLP-Profile-blue)](https://dblp.org/pid/14/6374.html)
-
-<br>
 
 ##### Affiliations
 - Professor, [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 171 College Ave, Medford, MA 02464,

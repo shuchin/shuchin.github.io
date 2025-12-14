@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "A Man is No One - Jaqen H&#39;ghar, GOT, JRR Martin",
+          description: "A Man is No One - Jaqen H&#39;ghar, GOT, GRR Martin",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

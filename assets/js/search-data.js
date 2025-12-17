@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-research-support-and-funding-ack",
+          title: "Research Support and Funding ACk",
+          description: "Current and Past Research Funding",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/funding/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "A Man is No One - Jaqen H&#39;ghar, GOT, GRR Martin",

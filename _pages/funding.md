@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /funding/
-title: Research Support and Funding ACk
+title: Research Support
 description: Current and Past Research Funding
 nav: true
 social: false

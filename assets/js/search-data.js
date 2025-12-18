@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-research-support",
-          title: "Research Support",
+          title: "research support",
           description: "Current and Past Research Funding",
           section: "Navigation",
           handler: () => {

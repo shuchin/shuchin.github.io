@@ -395,11 +395,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-best-paper-award-ieee-mlsp",
-          title: 'Best Paper Award IEEE MLSP',
+    },{id: "news-best-paper-award-ieee-mlsp-on-contrastive-learning-with-imbalanced-classes",
+          title: 'Best Paper Award IEEE MLSP on Contrastive Learning with Imbalanced Classes',
           description: "",
-          section: "News",},{id: "news-two-papers-on-optimal-transport-accepted-to-aistats-2025",
-          title: 'Two papers on Optimal Transport accepted to AISTATS 2025',
+          section: "News",},{id: "news-two-papers-on-optimal-transport-accepted-to-aistats-2025-main-conference",
+          title: 'Two papers on Optimal Transport accepted to AISTATS 2025 main conference',
           description: "",
           section: "News",},{id: "news-talk-at-uprm-puerto-rico-optimal-transport-metric-and-geometric-properties-with-applications",
           title: 'Talk at UPRM, Puerto Rico. Optimal Transport: Metric and Geometric Properties with Applications...',

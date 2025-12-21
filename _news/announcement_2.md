@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Best Paper Award IEEE MLSP
+Best Paper Award IEEE MLSP on Contrastive Learning with Imbalanced Classes

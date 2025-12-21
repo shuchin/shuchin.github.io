@@ -18,9 +18,6 @@ social: true # includes social icons at the bottom of the page
 ###### Midway along a multi-pitch climb ... "There is no choice ...The only way out is up!" - Adam Young
 <br>
 
-###### Research supported by: NSF (IAIFI, GCR, DMS), DOE, ARPA-H 
-<br>
-
 ##### Affiliations
 - Professor, [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 171 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 

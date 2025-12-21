@@ -35,3 +35,6 @@ social: true # includes social icons at the bottom of the page
   - Sparse Models for Signal Processing
   - Contrastive Learning
 
+##### Applications Areas
+- Inverse Problems for Remote Sensing and Imaging (Geophysics, MRI, HEP)
+- Bioinformatics

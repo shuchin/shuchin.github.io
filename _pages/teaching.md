@@ -6,7 +6,7 @@ description: UG and Graduate courses taught and developed
 nav: true
 nav_order: 6
 ---
-###### (Fall 2026) EE 127: Information, Inference, and Learning
+###### (Fall 2026) EE 127: Information, Inference, and Learning, Course Information: TBD
 
 ###### (Spring 2023, Fall 2024, Fall 2025) EE 193: Probability in High Dimensions [Course information](/assets/pdf/HDP_Course_Information_F2025.pdf)
 

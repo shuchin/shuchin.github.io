@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on Constrained Generation Accepted to TMLR
+Paper on Constrained Generation Accepted to [TMLR](https://openreview.net/forum?id=OR4h9WPJhV)

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-30
+date: 2026-04
 inline: true
 related_posts: false
 ---
 
-Paper on adversarial In-Context Learning (ICL) accepted to NeuRIPS 2025 main conference
+Paper on Constrained Generation Accepted to [TMLR](https://openreview.net/forum?id=OR4h9WPJhV)

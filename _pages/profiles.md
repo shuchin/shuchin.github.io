@@ -7,21 +7,20 @@ nav: true
 nav_order: 7
 ---
 ##### Current PhD Students
-- Zhengyan Huan, PhD, ECE, Fall 2024 - present
+- Zhengyan Huan, ECE, Fall 2024 - present
   - Generative Modeling, High Energy Physics
-- Hanling Jiang, PhD, ECE, Spring 2025 - present
+- Hanling Jiang, ECE, Spring 2025 - present
   - Large Language Models for Learning Sciences
-- Brendan Mallery, PhD, Math, Fall 2023 - present
-  - Optimal Transport for Parsimonious Representation of Data as Measures
-- Aleksandre Avaliani
+- Aleksandre Avaliani, ECE, Fall 2025-present
   - Contrastive Learning, AI/ML for Pain Score Estimation
-- Ngoc-Hai Nguyen
+- Ngoc-Hai Nguyen, ECE, Fall 2025-present
   - Contrastive Learning, Optimal Transport, High Energy Physics
-- Mohammad Panahazari 
+- Mohammad Panahazari, PhD, ECE, Fall 2025 - present
   - Generative Models
 
 
 ##### Graduate Alumni
+- (2026) Brendan Mallery, PhD (Math), "Synthesis, Analysis and Dictionary Learning in the Wasserstein Space with Barycentric Coding Models"
 - (2024) Matthew Werenski, PhD (CS), "Optimal Transport Maps: Theory and Applications". 
 - (2024) Ruijie Jiang, Phd (ECE), "Hard Negative Sampling for Contrastive Representation Learning". Currently with LinkedIn.
 - (2023) Shoaib Bin Masud, PhD (ECE), "Multivariate Rank-based Statistic using Optimal Transport: Generative Modeling and Change Point Detection".

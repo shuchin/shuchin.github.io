@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-20
+date: 2025-10-30
 inline: true
 related_posts: false
 ---
 
-Talk at UPRM, Puerto Rico. Optimal Transport: Metric and Geometric Properties with Applications 
+Paper on adversarial In-Context Learning (ICL) accepted to NeuRIPS 2025 main conference

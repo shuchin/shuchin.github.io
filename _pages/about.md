@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 - Professor, [Department of ECE, Tufts University](https://engineering.tufts.edu/ece/) 171 College Ave, Medford, MA 02464,
   - Office: Halligan Hall, Room 144 
 - Senior Investigator, [NSF IAIFI](https://iaifi.org/)
-- Affiliate Faculty 
+- Secondary Appointments 
   - Tufts Department of Computer Science
   - Tufts Department of Mathematics
 
@@ -36,6 +36,6 @@ social: true # includes social icons at the bottom of the page
   - Contrastive Learning
 
 ##### Applications Areas
-- Inverse Problems for Remote Sensing and Imaging (Geophysics, MRI, HEP)
+- Inverse Problems for Remote/Sub-surface Sensing and Imaging (Geophysics, MRI, High-Energy Physics)
 - Bioinformatics
 - LLM for Learning Sciences (Education, Student Outcomes) 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: UG and Graduate courses taught and developed
+description:
 nav: true
 nav_order: 6
 ---

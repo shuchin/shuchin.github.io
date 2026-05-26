@@ -15,7 +15,7 @@ nav_order: 7
   - Contrastive Learning, AI/ML for Pain Score Estimation
 - Ngoc-Hai Nguyen, ECE, Fall 2025-present
   - Contrastive Learning, Optimal Transport, High Energy Physics
-- Mohammad Panahazari, PhD, ECE, Fall 2025 - present
+- Mohammad Panahazari, ECE, Fall 2025 - present
   - Generative Models
 
 

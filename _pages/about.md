@@ -29,6 +29,7 @@ social: true # includes social icons at the bottom of the page
 
 ##### Academic and Research Interests
 - Statistical Signal Processing
+- Tensor Factorization and Multilinear Algebra 
 - Information Theory
 - High-Dimensional Statistics and Learning 
   - Optimal Transport, Generative Models

@@ -38,5 +38,5 @@ social: true # includes social icons at the bottom of the page
 
 ##### Applications Areas
 - Inverse Problems for Remote/Sub-surface Sensing and Imaging (Geophysics, MRI, High-Energy Physics)
+- AI/ML for Learning and Cognitive Sciences: How students engage with confusion?
 - Bioinformatics
-- LLM for Learning Sciences (Education, Student Outcomes) 
